@@ -8,9 +8,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently learning React 
+- 🔭 Currently learning React 
 
-- 🌐 I’m looking to collaborate on Projects, Tech Articles 
+- 🌐 Looking to collaborate on Projects, Tech Articles 
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com) 
 
  
