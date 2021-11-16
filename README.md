@@ -34,13 +34,15 @@
 
 <h2> GitHub Stats </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=MeetMulik">
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MeetMulik&show_icons=true&theme=react&hide_border=true&locale=en" alt="MeetMulik"  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api?username=MeetMulik">
 <img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&theme=react&hide_border=true" alt="MeetMulik"/>
 </a>
-
-
-
 <br>
+<img alt="Meet Mulik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetMulik&&theme=react-dark&hide_border=true">
+
+
+
+
