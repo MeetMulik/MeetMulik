@@ -35,10 +35,10 @@
 <h2> GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MeetMulik&show_icons=true&locale=en" alt="MeetMulik"  />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MeetMulik&show_icons=true&theme=react&hide_border=true&locale=en" alt="MeetMulik"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&" alt="MeetMulik"/>
+<img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&theme=react&hide_border=true" alt="MeetMulik"/>
 </a>
 
 
