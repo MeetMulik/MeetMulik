@@ -11,7 +11,7 @@
 - 🔭 Currently learning React 
 
 - 🌐 Looking to collaborate on Projects, Tech Articles 
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com) 
+- 📫 How to reach me: You can mail me at meetmulik125@gmail.com 
 
  
 
