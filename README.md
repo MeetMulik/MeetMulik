@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/89148021/129922898-a69fab36-7b6c-46ee-8f3d-91398a27e671.png)
-<h1 align="center">Hi, I'm Meet!<img src="https://user-images.githubusercontent.com/89148021/129923397-4c238cf0-ac67-4aca-beac-d0b23da73da1.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Meet!</h1>
 <!-- <h3 align="center">A budding Web Developer from India ❤</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeetMulik&label=Profile%20views&color=38617a&style=flat-square" alt="MeetMulik" /> </p>
 
@@ -15,7 +15,7 @@
 
  
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills💻</h2>
 <a href= https://github.com/MeetMulik?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/MeetMulik?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/MeetMulik?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
