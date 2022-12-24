@@ -41,7 +41,7 @@
 <img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&theme=react&hide_border=true" alt="MeetMulik"/>
 </a>
 <br>
-<img alt="Meet Mulik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetMulik&&theme=react-dark&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeetMulik&bg_color=2c2b31&color=ffffff&line=0ac2ff&point=ffffff&area=true&hide_border=true" />
 
 
 
