@@ -35,10 +35,10 @@
 <h2> GitHub Stats📈 </h2>
 
 <a href="https://github-readme-stats.vercel.app/api?username=MeetMulik">
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MeetMulik&show_icons=true&theme=react&hide_border=true&locale=en" alt="MeetMulik"  />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MeetMulik&show_icons=true&theme=react&background=2c2b31&bg_color=2c2b31&hide_border=true&locale=en" alt="MeetMulik"  />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik">
-<img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&theme=react&hide_border=true" alt="MeetMulik"/>
+<img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetMulik&theme=react&background=2c2b31&hide_border=true" alt="MeetMulik"/>
 </a>
 <br>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeetMulik&bg_color=2c2b31&color=ffffff&line=0ac2ff&point=ffffff&area=true&hide_border=true" />
