@@ -8,7 +8,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Currently learning Flutter 
 
 - 🌐 Looking to collaborate on Projects, Tech Articles 
 - 📫 How to reach me: You can mail me at meetmulik125@gmail.com 
