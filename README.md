@@ -10,7 +10,7 @@
 
 
 - 🌐 Looking to collaborate on Projects, Tech Articles 
-- 📫 How to reach me: You can mail me at meetmulik125@gmail.com 
+- 📫 How to reach me: You can mail me at meetmulik5@gmail.com 
 
  
 
